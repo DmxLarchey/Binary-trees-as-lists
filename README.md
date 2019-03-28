@@ -29,7 +29,7 @@ mais sachez cependant que l'on comprend mieux un énoncé
 une fois qu'on a terminé sa preuve.
 
 Le résultat de votre travail est à me rendre par email
-(larchey@loria.fr) à la date du 23 mai 2018. Le travail
+(larchey@loria.fr) à la date du 14 mai 2019. Le travail
 est **individuel** même si vous pouvez échanger des idées
 entre vous pour résoudre les exercices. N'oubliez pas
 de consulter la documentation en ligne de Coq
@@ -37,11 +37,11 @@ de consulter la documentation en ligne de Coq
 http://coq.inria.fr/documentation
 
 Nous organiserons une **soutenance sur machine** d'une
-durée individuelle d'environ 15m le **jeudi 24 mai 2018**
+durée individuelle d'environ 15m le **jeudi 16 mai 2019**
 où vous nous présenterez le résultat de votre travail et 
 nous exposerez les éventuelles difficultés que vous avez 
-rencontrées. La soutenance aura lieu dans la **salle Atelis HP 303**
-entre 9h00 et 12h00. Un ordre de passage vous sera 
+rencontrées. La soutenance aura lieu dans la **salle Atelis HP 315**
+entre 14h00 et 19h00. Un ordre de passage vous sera 
 communiqué ultérieurement.
 
 Bon travail
