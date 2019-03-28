@@ -28,8 +28,8 @@ Vous pouvez procéder dans l'ordre que vous souhaitez
 mais sachez cependant que l'on comprend mieux un énoncé
 une fois qu'on a terminé sa preuve.
 
-Le résultat de votre travail est à me rendre par email
-(larchey@loria.fr) à la date du 14 mai 2019. Le travail
+Le résultat de votre travail est à me **rendre par email
+(larchey@loria.fr) à la date du 14 mai 2019**. Le travail
 est **individuel** même si vous pouvez échanger des idées
 entre vous pour résoudre les exercices. N'oubliez pas
 de consulter la documentation en ligne de Coq
