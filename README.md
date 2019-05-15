@@ -1,5 +1,6 @@
 ## Aux étudiants M1 de l'UE *Preuves et démonstrations automatisées*
 
+
 ### Codage des arbres binaires par des listes de booléens
 
 Bonjour à tous,
